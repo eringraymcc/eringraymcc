@@ -17,7 +17,15 @@
 
 - [Active Directory Home Lab](https://github.com/eringraymcc/)
 
+<h2>👨‍💻 Master's in Cybersecurity Coursework:</h2>
+- <b>Southern New Hampshire University</b> - Expected Graduation December 2025
+    - IT Core Technologies
+    - Telecommunications/Networking
+    - Foundations in Information Assurance
 
+<h2>👨‍💻 Certfications:</h2>
+  - ITIL Foundation Certificate in IT Service Management
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Erin-GrayMcClenny | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
