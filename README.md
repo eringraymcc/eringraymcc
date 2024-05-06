@@ -20,9 +20,9 @@
 <h2>👨‍💻 Master's in Cybersecurity Coursework:</h2>
 
 - <b>Southern New Hampshire University</b> - Expected Graduation December 2025
-    - [IT Core Technologies]
-    - [Telecommunications/Networking]
-    - [Foundations in Information Assurance]
+    - IT Core Technologies
+    - Telecommunications/Networking
+    - Foundations in Information Assurance
 
 <h2>👨‍💻 Certfications:</h2>
   - ITIL Foundation Certificate in IT Service Management
