@@ -3,7 +3,7 @@
 <h2>👨‍💻 Governance Risk & Compliance Projects:</h2>
 
 - <b>GRC</b>
-  - [Information Security Policy Templates](https://github.com/eringraymcc)
+  - [Information Security Policy Templates](https://github.com/eringraymcc/Information-Security-Policy-Templates/tree/main)
   - [Gap Assessment Template](https://github.com/eringraymcc)
 
 - <b>IT and Cybersecuirty Audit</b>
